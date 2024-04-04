@@ -1,0 +1,19 @@
+.links
+{
+   border: 3px solid black;
+   height: 200px;
+   width: 700px;
+   margin: 0 0 0 160px;
+   display: flex;
+   background-color:bisque;
+}
+
+.links li{
+    padding-top: 10px;
+}
+
+.code{
+    border: 3px solid black;
+    background-color: blanchedalmond;
+    width: 400px;
+}
